@@ -36,6 +36,6 @@ int main()
 //endl: a functional template, inserting newline and flushing output stream
 //TO UNDERSTANDING
 //just edit it!
-
+//edit again!
 //<< : a shift operator, but here it's a reloaded operator function. 
 
