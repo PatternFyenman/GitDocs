@@ -1,0 +1,5 @@
+How to resize a picture?
+
+How to do a backward propagation algorithm?
+
+Is the weight new when calculate the weigth in next layer in backward propagation?
